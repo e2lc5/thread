@@ -1,0 +1,2 @@
+rootProject.name='HJ_ThreadPool'
+include ':thread'

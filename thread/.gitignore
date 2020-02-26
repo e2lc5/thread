@@ -1,0 +1,12 @@
+.grale/*
+.idea/
+.idea/*
+app/*.iml
+app/build/*
+build/
+build/*
+gradle/
+gradle/*
+*.iml
+gradlew.bat
+gradlew
